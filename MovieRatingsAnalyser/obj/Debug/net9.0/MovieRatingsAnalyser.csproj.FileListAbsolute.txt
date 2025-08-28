@@ -1,0 +1,14 @@
+C:\Users\Josh\Desktop\JobAssessments\RetailSolutionsAssessment\MovieRatingsAnalyser\bin\Debug\net9.0\MovieRatingsAnalyser.exe
+C:\Users\Josh\Desktop\JobAssessments\RetailSolutionsAssessment\MovieRatingsAnalyser\bin\Debug\net9.0\MovieRatingsAnalyser.deps.json
+C:\Users\Josh\Desktop\JobAssessments\RetailSolutionsAssessment\MovieRatingsAnalyser\bin\Debug\net9.0\MovieRatingsAnalyser.runtimeconfig.json
+C:\Users\Josh\Desktop\JobAssessments\RetailSolutionsAssessment\MovieRatingsAnalyser\bin\Debug\net9.0\MovieRatingsAnalyser.dll
+C:\Users\Josh\Desktop\JobAssessments\RetailSolutionsAssessment\MovieRatingsAnalyser\bin\Debug\net9.0\MovieRatingsAnalyser.pdb
+C:\Users\Josh\Desktop\JobAssessments\RetailSolutionsAssessment\MovieRatingsAnalyser\obj\Debug\net9.0\MovieRatingsAnalyser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Josh\Desktop\JobAssessments\RetailSolutionsAssessment\MovieRatingsAnalyser\obj\Debug\net9.0\MovieRatingsAnalyser.AssemblyInfoInputs.cache
+C:\Users\Josh\Desktop\JobAssessments\RetailSolutionsAssessment\MovieRatingsAnalyser\obj\Debug\net9.0\MovieRatingsAnalyser.AssemblyInfo.cs
+C:\Users\Josh\Desktop\JobAssessments\RetailSolutionsAssessment\MovieRatingsAnalyser\obj\Debug\net9.0\MovieRatingsAnalyser.csproj.CoreCompileInputs.cache
+C:\Users\Josh\Desktop\JobAssessments\RetailSolutionsAssessment\MovieRatingsAnalyser\obj\Debug\net9.0\MovieRatingsAnalyser.dll
+C:\Users\Josh\Desktop\JobAssessments\RetailSolutionsAssessment\MovieRatingsAnalyser\obj\Debug\net9.0\refint\MovieRatingsAnalyser.dll
+C:\Users\Josh\Desktop\JobAssessments\RetailSolutionsAssessment\MovieRatingsAnalyser\obj\Debug\net9.0\MovieRatingsAnalyser.pdb
+C:\Users\Josh\Desktop\JobAssessments\RetailSolutionsAssessment\MovieRatingsAnalyser\obj\Debug\net9.0\MovieRatingsAnalyser.genruntimeconfig.cache
+C:\Users\Josh\Desktop\JobAssessments\RetailSolutionsAssessment\MovieRatingsAnalyser\obj\Debug\net9.0\ref\MovieRatingsAnalyser.dll
