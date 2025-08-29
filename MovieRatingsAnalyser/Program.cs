@@ -2,7 +2,9 @@
 using MovieRatingsAnalyser.Services;
 
 namespace MovieRatingsAnalyser
-{
+{   /// <summary>
+    /// Entry point for the Movie Ratings Analyser application
+    /// </summary>
     class Program
     {
         private static MovieService _movieService = new MovieService();
@@ -16,7 +18,9 @@ namespace MovieRatingsAnalyser
             LoadMovieData();
             ShowMainMenu();
         }
-
+        /// <summary>
+        /// Loads movie data from CSV file with graceful error handling
+        /// </summary>
         private static void LoadMovieData()
         {
             try
@@ -31,7 +35,6 @@ namespace MovieRatingsAnalyser
                 Console.WriteLine("Please ensure 'Data/movies.csv' exists and is properly formatted.\n");
             }
         }
-
         private static void ShowMainMenu()
         {
             while (true)
@@ -70,7 +73,7 @@ namespace MovieRatingsAnalyser
                 }
             }
         }
-
+        
         private static void ShowTopRatedMovies()
         {
             if (_movies.Count == 0) return;
@@ -85,7 +88,7 @@ namespace MovieRatingsAnalyser
             }
             Console.WriteLine();
         }
-
+       
         private static void ShowWorstMovies()
         {
             if (_movies.Count == 0) return;
@@ -100,7 +103,7 @@ namespace MovieRatingsAnalyser
             }
             Console.WriteLine();
         }
-
+        
         private static void ShowBestYears()
         {
             if (_movies.Count == 0) return;
@@ -117,7 +120,7 @@ namespace MovieRatingsAnalyser
             }
             Console.WriteLine();
         }
-
+        
         private static void FilterByGenre()
         {
             if (_movies.Count == 0) return;
@@ -149,7 +152,7 @@ namespace MovieRatingsAnalyser
 
             Console.WriteLine($"\nMovies in '{selectedGenre}' genre:");
             Console.WriteLine("=====================================");
-            
+            // Display the filtered movies
             foreach (var movie in filteredMovies.OrderByDescending(m => m.Rating))
             {
                 Console.WriteLine($"• {movie}");
