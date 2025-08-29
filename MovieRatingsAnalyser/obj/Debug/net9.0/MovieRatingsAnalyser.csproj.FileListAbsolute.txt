@@ -12,3 +12,4 @@ C:\Users\Josh\Desktop\JobAssessments\RetailSolutionsAssessment\MovieRatingsAnaly
 C:\Users\Josh\Desktop\JobAssessments\RetailSolutionsAssessment\MovieRatingsAnalyser\obj\Debug\net9.0\MovieRatingsAnalyser.pdb
 C:\Users\Josh\Desktop\JobAssessments\RetailSolutionsAssessment\MovieRatingsAnalyser\obj\Debug\net9.0\MovieRatingsAnalyser.genruntimeconfig.cache
 C:\Users\Josh\Desktop\JobAssessments\RetailSolutionsAssessment\MovieRatingsAnalyser\obj\Debug\net9.0\ref\MovieRatingsAnalyser.dll
+C:\Users\Josh\Desktop\JobAssessments\RetailSolutionsAssessment\MovieRatingsAnalyser\obj\Debug\net9.0\MovieRatingsAnalyser.sourcelink.json
